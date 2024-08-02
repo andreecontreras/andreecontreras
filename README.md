@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **SQL, Ruby, Swift**
 
-💬 Ask me about **HTML, CSS, Firebase**
+💬 Ask me about **HTML, CSS, JavaScript**
 
 ⚡ Fun fact **The Legendary Porsche 911 was Originally Named 901**
 
@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,c++,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,java,mysql" /><br>
 </div>
 
 <br/>
